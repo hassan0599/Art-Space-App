@@ -13,5 +13,5 @@
 ## Screenshot of Finished Application:
 ![Screenshot](https://i.imgur.com/V5Kvwm1.png)
 
-## Screenrecording detailing usage of Application:
+## Screen recording showing usage of Application:
 https://user-images.githubusercontent.com/61388284/205307278-a2db321e-a472-41b9-b48d-f75be3c8d29b.mp4
