@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    
+    <string name="description_1">Car on Sideroad</string>
+    <string name="description_2">Sunflowers</string>
+    <string name="description_3">Crashing Waves</string>
+    <string name="description_4">Starry Night</string>
+    <string name="description_5">Aesthetic Village</string>
+    <string name="description_6">Trees in a Desert</string>
+    <string name="description_7">Rocky Mountain with a Valley</string>
+    <string name="description_8">Light Bulb</string>
+
+    <string name="photographer_1">Matthew Woinarowicz</string>
+    <string name="photographer_2">Anita Austvika</string>
+    <string name="photographer_3">Kellen Riggin</string>
+    <string name="photographer_4">Jonny Gios</string>
+    <string name="photographer_5">Elizabeth Villalta</string>
+    <string name="photographer_6">Andrew Spencer</string>
+    <string name="photographer_7">Karl Hedin</string>
+    <string name="photographer_8">Bogomil Mihaylov</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    
+</resources>
