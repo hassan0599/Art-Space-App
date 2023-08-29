@@ -1,25 +1,20 @@
 <resources>
     <string name="app_name">Art Space</string>
-    
-    <string name="description_1">Car on Sideroad</string>
-    <string name="description_2">Sunflowers</string>
-    <string name="description_3">Crashing Waves</string>
-    <string name="description_4">Starry Night</string>
-    <string name="description_5">Aesthetic Village</string>
-    <string name="description_6">Trees in a Desert</string>
-    <string name="description_7">Rocky Mountain with a Valley</string>
-    <string name="description_8">Light Bulb</string>
-
-    <string name="photographer_1">Matthew Woinarowicz</string>
-    <string name="photographer_2">Anita Austvika</string>
-    <string name="photographer_3">Kellen Riggin</string>
-    <string name="photographer_4">Jonny Gios</string>
-    <string name="photographer_5">Elizabeth Villalta</string>
-    <string name="photographer_6">Andrew Spencer</string>
-    <string name="photographer_7">Karl Hedin</string>
-    <string name="photographer_8">Bogomil Mihaylov</string>
-
-    <string name="previous_button">Previous</string>
-    <string name="next_button">Next</string>
-    
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="artwork_title_1">Misty Morning</string>
+    <string name="artwork_title_2">Dreamy Sunset</string>
+    <string name="artwork_title_3">Colorful Bubbles</string>
+    <string name="artwork_title_4">Graceful Dancer</string>
+    <string name="artwork_title_5">Illuminated Pathway</string>
+    <string name="artwork_title_6">Intricate Sculpture</string>
+    <string name="artwork_title_7">Quiet Forest</string>
+    <string name="artwork_title_8">Abstract Strokes</string>
+    <string name="artwork_title_9">Victorian Architecture</string>
+    <string name="artwork_title_10">Cherry Blossoms</string>
+    <string name="artwork_title_11">Mirrored Puddle</string>
+    <string name="artwork_title_12">Fall Trees</string>
+    <string name="artwork_title_13">Dew Webs</string>
+    <string name="artwork_title_14">Lights of Nature</string>
+    <string name="author">Leonardo AI</string>
 </resources>
